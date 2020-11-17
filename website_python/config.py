@@ -1,6 +1,6 @@
 customhost = "employee.cudz2wwgocv8.eu-west-3.rds.amazonaws.com"
 customuser = "admin"
-custompass = "Ppp12345!"
+custompass = ""
 customdb = "employee"
 custombucket = "s3-bucket-for-project"
 customregion = "eu-west-3"
