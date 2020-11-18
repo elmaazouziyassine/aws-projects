@@ -1,6 +1,6 @@
-customhost = "employee.cudz2wwgocv8.eu-west-3.rds.amazonaws.com"
+customhost = "mysql-for-project.cudz2wwgocv8.eu-west-3.rds.amazonaws.com"
 customuser = "admin"
-custompass = ""
+custompass = "admin123"
 customdb = "employee"
 custombucket = "s3-bucket-for-project"
 customregion = "eu-west-3"
